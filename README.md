@@ -4,6 +4,23 @@
 
 This project focuses on performing an in-depth exploratory data analysis (EDA) by scraping, processing, and analyzing data from IMDb to uncover trends and insights in the global movie industry from 1950 to 2020. The analysis covers various attributes—including release year, box office revenue, ratings, genres, directors, and lead actors—to provide a comprehensive view of how audience preferences and movie success have evolved over the decades.
 
+## Project Structure
+
+```
+imdb-eda-project
+├── data
+│   ├── raw
+│   ├── processed
+├── notebooks
+│   └── eda.ipynb
+├── src
+│   ├── data_preprocessing.py
+│   ├── eda.py
+│   └── visualization.py
+├── requirements.txt
+└── README.md
+```
+
 ## Objective
 
 To analyze trends in the global movie industry by collecting data on top movies, performing statistical analyses, visualizing patterns, and drawing conclusions on industry changes over time.
