@@ -9,14 +9,12 @@ This project focuses on performing an in-depth exploratory data analysis (EDA) b
 ```
 imdb-eda-project
 ├── data
-│   ├── raw
-│   ├── processed
+│   ├── imdb_top_movies_cleaned.csv
+│   ├── imdb_top_movies.csv
 ├── notebooks
-│   └── eda.ipynb
+│   └── eda_analysis.ipynb
 ├── src
-│   ├── data_preprocessing.py
-│   ├── eda.py
-│   └── visualization.py
+│   ├── ddata_web_scraping.py
 ├── requirements.txt
 └── README.md
 ```
