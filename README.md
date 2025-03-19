@@ -14,7 +14,11 @@ imdb-eda-project
 ├── notebooks
 │   └── eda_analysis.ipynb
 ├── src
-│   ├── ddata_web_scraping.py
+│   ├── data_visualization.py
+|   ├── eda_analysis.py
+|   ├── genre_evolution_analysis.py
+|   ├── movie_n_director_trends.py
+|   ├── statistical_analysis.py
 ├── requirements.txt
 └── README.md
 ```
